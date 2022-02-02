@@ -10,6 +10,6 @@ This repository will bring you the oportunity of change the program of our proje
 are open to learn your ideas that it will increase the performance of this Arduino code. This project is openSource
 and it's publicated on this link: <Poner el link de instructables>
 
--IMPORTANT-
+##-IMPORTANT-
 This project has lincenses of 
 Creative Commons (BY)(NC - No comercial)
