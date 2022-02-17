@@ -12,4 +12,4 @@ are open to know about your ideas that it will increase the performance of this 
 ## IMPORTANT
 
 This project has lincenses of 
-Creative Commons (BY)(NC - No comercial)
+Creative Commons (BY)(NC - No comercial)(SA)
